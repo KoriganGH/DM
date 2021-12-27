@@ -1,4 +1,4 @@
-﻿#include <iostream>            // ДЗ №5
+﻿#include <iostream>
 #include <sstream>
 #include <fstream>
 
